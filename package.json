@@ -1,0 +1,11 @@
+{
+  "name": "@wadecord/main",
+  "version": "1.0.0",
+  "description": "The best wrapper for bots",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "WadeSlider <elalexisgd@gmail.com>",
+  "license": "MIT"
+}
